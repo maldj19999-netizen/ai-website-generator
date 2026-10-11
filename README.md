@@ -1,2 +1,37 @@
-# ai-website-generator
-AI-powered website generator that creates functional websites with live links
+# 🤖 ماجد - موقع ذكي متقدم
+
+موقع احترافي يعمل بالذكاء الاصطناعي مع واجهة مستخدم حديثة وسريعة.
+
+## 🚀 المميزات
+
+- ✨ واجهة احترافية وجميلة
+- 🤖 ذكاء اصطناعي متقدم
+- ⚡ أداء سريع جداً
+- 🌍 دعم اللغة العربية
+- 📱 متجاوب على جميع الأجهزة
+- 🔒 آمن وموثوق
+
+## 📦 التثبيت
+
+```bash
+npm install
+```
+
+## 🏃 التشغيل
+
+```bash
+npm run dev
+```
+
+افتح [http://localhost:3000](http://localhost:3000)
+
+## 🌐 النشر على Vercel
+
+```bash
+npm i -g vercel
+vercel
+```
+
+## 📝 الترخيص
+
+MIT License
